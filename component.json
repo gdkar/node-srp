@@ -12,6 +12,10 @@
   "version": "0.0.0",
   "main": "srp.js",
   "scripts":[
+    "srp.js",
+    "biginteger.js",
+    "random.js",
+    "sha256.js"
   ],
   "dependencies": {
   },
