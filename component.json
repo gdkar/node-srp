@@ -8,11 +8,10 @@
     "pki",
     "authentication"
   ],
-  "author": "gabriel d. karpman <gdkar@mit.edu>"
+  "author": "gabriel d. karpman <gdkar@mit.edu>",
   "version": "0.0.0",
   "main": "srp.js",
   "scripts":[
-  
   ],
   "dependencies": {
   },
