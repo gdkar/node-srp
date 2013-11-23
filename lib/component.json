@@ -15,6 +15,7 @@
   
   ],
   "dependencies": {
+    "underscore":""
   },
   "repository":{
     "type":"git",
