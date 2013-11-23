@@ -1,5 +1,5 @@
 {
-  "name": "node-srp",
+  "name": "srp",
   "version": "0.0.1",
   "description": "SRP port from Meteor.js SRP package",
   "main": "lib/srp.js",
@@ -8,14 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/phillyqueso/node-srp.git"
+    "url": "https://github.com/gdkar/node-srp.git"
   },
   "keywords": [
     "srp"
   ],
-  "author": "phillyqueso",
+  "author": "gdkar",
   "license": "BSD",
   "dependencies": {
-    "underscore": "~1.4.4"
   }
 }
