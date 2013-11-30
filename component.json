@@ -1,6 +1,6 @@
 {
   "name": "srp",
-  "repo": "gdkar/node-srp",
+  "repo": "gdkar/srp-component",
   "description" : "extention of meteor's SRP implementation with component formatting and 1024-8192 bit standard groups",
   "keywords":[
     "password",
@@ -10,17 +10,18 @@
   ],
   "author": "gabriel d. karpman <gdkar@mit.edu>",
   "version": "0.0.0",
-  "main": "srp.js",
+  "main": "lib/srp.js",
   "scripts":[
-    "srp.js",
-    "biginteger.js",
-    "random.js",
-    "sha256.js"
+    "lib/srp.js",
+    "lib/biginteger.js",
+    "lib/random.js",
+    "lib/params.js"
   ],
   "dependencies": {
+    "sjcl-full"
   },
   "repository":{
     "type":"git",
-    "url": "git://github.com/gdkar/node-srp"
+    "url": "git://github.com/gdkar/srp-component"
   }
 }
