@@ -15,6 +15,8 @@
   ],
   "author": "gdkar",
   "license": "BSD",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "sjcl-full": "~1.0.0"
   }
 }
